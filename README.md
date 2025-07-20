@@ -10,26 +10,27 @@
 
 ---
 
-### 👨‍💻 About
+## 👨‍💻 About
 
-> 🎯 **Emon-Termux-HackerToolkit** is an all-in-one hacking-style toolkit designed by Emon for Termux lovers.  
-> 📦 From auto setup, banners, fake SMS bomber, to a wifi scanner – everything is here, in one place.
-
----
-
-### ⚙️ Features
-
-- ✅ Full Termux auto-setup
-- 🎨 Custom hacker-style banner generator
-- 📡 Local WiFi device scanner (non-root)
-- 💣 SMS Bomber (demo version)
-- 🔊 Welcome sound with hacker voice
-- 💻 Eye-catching terminal effects
-- 🧠 Organized modules with hacker vibe
+> 🎯 **Emon-Termux-HackerToolkit** is a complete hacker-style toolset designed by **Emon** for Termux users.  
+> 📦 Includes auto-setup, custom banners, SMS bomber (demo), WiFi scanner & more — all styled like a hacker's dream terminal.
 
 ---
 
-### 📥 Installation
+## ⚙️ Features
+
+- ✅ Full Termux Auto-Setup with all essentials
+- 🎨 Stylish banner generator (ASCII, color)
+- 📡 WiFi Network scanner (non-root)
+- 💣 SMS Bomber (for educational demo)
+- 🔊 Voice welcome (MP3 hacker-style)
+- 💻 Hacker-style effects with red glow and fonts
+- 🧠 Organized modules and fast execution
+- 👑 Personalized with **Emon** branding
+
+---
+
+## 📥 Installation
 
 ```bash
 pkg update -y && pkg upgrade -y
